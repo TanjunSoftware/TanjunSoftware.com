@@ -1,0 +1,21 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Services"
+url = "/#services"
+weight = 2
+
+[[main]]
+name = "Projects"
+weight = 3
+
+[[main]]
+parent = "Projects"
+name = "ThreadedChannels"
+url = "/projects/threadedchannels"
