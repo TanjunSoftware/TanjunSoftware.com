@@ -1,53 +1,39 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Reliable, Professional, Affordable"
+  content: "Software Development and Consulting<br />From concept to prototype to production, we provide the expertise to bring your ides to life."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Let's Talk"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Custom Development"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "We provide Custom Development for several industries and platforms"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Web Applications &mdash; Informational sites, SaaS products, or single tenant web applications"
+      - "Ecommerce &mdash; With extensive experience in industry leading Ecommerce companies, we can help build out your next store on Shopify, Magento 2, WooCommerce and others"
+      - "Custom Integrations &mdash; Need a custom tool to connect your systems together? We can help build a tool to connect your Ecommerce store to a fulfillment platform, or your accounting system,  your internal Slack organization, or wherever you need to move data from one application to another"
+      - "Business Process Management &mdash; We've built custom inventory management, workflow management, job quoting, and other process management applications for our clients; let us work with you to streamline your business processes to level up your entire team's productivity"
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Software Consulting"
+    image: "/images/service-2.png"
+    content: "Have an existing project that needs help or just that extra push to get over the finish line?"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Rapid Prototyping &mdash; We can quickly build prototypes for your team to jump start their work"
+      - "Resolve Bugs in your Existing Software &mdash; Free up your team's time to work on features, and we'll handle those hard to resolve bugs"
+      - "Architect New Solutions &mdash; With experience building industry leading applications, we can help plan out and architect solutions for your next project"
+      - "Code Reviews and Audits &mdash; Need insight into your team's quality and output? We can review and audit your code and provide executive summaries and suggestions to meet your business's goals"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "We're Here to Help"
+      link: "/contact"
 ---
