@@ -15,9 +15,14 @@ moderate your Slack channels.
 - Lock specific Slack channels to threaded conversations only
 - Friendly interactions between the Application and your Users
 - Modal Thread Creation tool
+- Completely Free and Open Source
+
+ThreadedChannels is released under the MIT license. [Contact Us](/contact) to
+work together on building your own Slack apps!
 
 <a class="btn btn-primary mt-6 transition duration-100 ease-in-out hover:scale-110"
-  href="https://threadedchannels.com/">
-  Visit ThreadedChannels.com
+  href="https://github.com/tanjunsoftware/threadedchannels"
+  target="_blank">
+  Visit ThreadedChannels
   <i class="fa fa-arrow-right pl-2"></i>
 </a>
